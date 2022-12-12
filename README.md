@@ -13,5 +13,18 @@ Project Layout:
        - Name File
   - Architecture 
     - Front-end : React /Javascript
-    - Serverless (Avoid trying to set up another VM) 
-       - Try to learn AWS Lambda 
+    - Serverless API
+         - Routes : 
+          - getPDF 
+            - Method : POST
+            - Keys :
+              - Tags
+              - Input
+              - Output
+              - Max Experience
+              - Display Project Skills
+              - Header Font Size
+              - Body Font Size
+              - Title Font Size
+    - Also will need to publish my personal yaml file  
+    
