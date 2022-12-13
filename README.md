@@ -26,5 +26,6 @@ Project Layout:
               - Header Font Size
               - Body Font Size
               - Title Font Size
-    - Also will need to publish my personal yaml file  
-    
+    - Things to fix: 
+      - Convert the yaml file into dynamodb
+      - Create a method in resume builder to pull the data from dynamodb
